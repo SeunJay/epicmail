@@ -1,28 +1,39 @@
 /* CSS styling goes here */
 /* Bordered form */
+
+body {
+  color: rgb(60, 115, 233);
+  background: #fff;
+  font-size: 20px;
+}
+
+
 form {
-    border: 3px solid #f1f1f1;
+    border: 3px solid #535252;
   }
   
   /* Full-width inputs */
   input[type=text], input[type=password] {
-    width: 100%;
+    width: 70%;
     padding: 12px 20px;
     margin: 8px 0;
-    display: inline-block;
+    display: block;
     border: 1px solid #ccc;
     box-sizing: border-box;
+    border-radius: 5px
   }
   
   /* Set a style for all buttons */
   button {
-    background-color: #4CAF50;
+    background-color: rgb(60, 115, 233);
     color: white;
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    width: 100%;
+    width: 20%;
+    border-radius: 5px;
+    font-size: 17px
   }
   
   /* Add a hover effect for buttons */
