@@ -53,10 +53,9 @@ form {
     background-color: #f44336;
   }
   
-  /* Avatar image */
-  img.avatar {
-    width: 40%;
-    border-radius: 50%;
+  a {
+    text-decoration: none;
+    color: rgb(245, 137, 137)
   }
   
   /* Add padding to containers */
