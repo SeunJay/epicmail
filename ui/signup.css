@@ -10,6 +10,16 @@ form {
     border: 3px solid #535252;
   }
 
+  .anchorParagraph {
+      color:  rgb(245, 137, 137)
+  }
+
+
+p a {
+    color:  rgb(245, 137, 137);
+    text-decoration: none
+}
+
 /* Add padding to containers */
 .container {
   padding: 16px;
