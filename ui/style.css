@@ -24,7 +24,8 @@ form {
     display: block;
     border: 1px solid #ccc;
     box-sizing: border-box;
-    border-radius: 5px
+    border-radius: 5px;
+    background: #f1f1f1
   }
   
   /* Set a style for all buttons */
