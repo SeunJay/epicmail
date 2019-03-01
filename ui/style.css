@@ -14,13 +14,20 @@ h2 {
 
 form {
     border: 3px solid #535252;
+    width: 70%;
+    margin: 0 auto
+  }
+
+  form h2 {
+    text-align: left;
+    margin-left: 15px;
   }
   
   /* Full-width inputs */
   input[type=text], input[type=password] {
-    width: 70%;
+    width: 90%;
     padding: 12px 20px;
-    margin: 8px 0;
+    margin: 15px 0;
     display: block;
     border: 1px solid #ccc;
     box-sizing: border-box;
