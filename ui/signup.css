@@ -6,11 +6,11 @@ body {
     font-size: 20px;
   }
 
-form {
+/* form {
     border: 3px solid #535252;
     width: 50%;
     margin: 0 auto;
-  }
+  } */
 
   .anchorParagraph {
       color:  rgb(245, 137, 137)
@@ -51,7 +51,7 @@ hr {
 
 /* Set a style for the submit/register button */
 .registerbtn {
-  background-color: #4CAF50;
+  background-color:  rgb(60, 115, 233);
   color: white;
   padding: 16px 20px;
   margin: 8px 0;
